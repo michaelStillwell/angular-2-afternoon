@@ -1,3 +1,3 @@
-angular.module('devmtnTravel').service('mainSrvc', function() {
-  
+angular.module('devmtnTravel').service('test', function($http) {
+    this.test = console.log('test')
 });

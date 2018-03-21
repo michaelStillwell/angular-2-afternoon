@@ -5,6 +5,10 @@ h1,h2,h3,h4,h5,h6,button {
   font-family: 'Montserrat', sans-serif;
 }
 
+a {
+    cursor: pointer;
+}
+
 p,a,li {
   font-family: 'Arimo', sans-serif;
 }
